@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 18px;
+    font-family: 'Comfortaa', sans-serif;
+}
+.container a {
+    color: black;
+    text-decoration: none;
+}
+.container a:hover {
+   font-weight: bold;
+}
