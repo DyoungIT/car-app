@@ -1,0 +1,57 @@
+.CarContainer {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 10px;
+  margin-top: 80px;
+}
+.CarContainer img {
+  width: 100%;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  flex: 1 1 calc(25% - 10px); 
+  background-color: rgb(230, 230, 230);
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ddd;
+  box-sizing: border-box; 
+  justify-content: space-between;
+  border-radius: 40px;
+}
+.carInfo{
+  word-break: break-word;
+}
+
+.priceInfo{
+    font-size: 20px;
+}
+
+
+.BuyBtn {
+    padding: 10px 30px;
+    font-size: 16px;
+    background-color: #000000;
+    color: white;
+    border: 2px solid transparent; 
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease; 
+}
+.BuyBtn:hover {
+  background-color: #fff; 
+  color: #000000; 
+  border-color: #000000; 
+  opacity: 0.8; 
+}
+@media (max-width: 1024px){
+    .CarContainer {
+       flex-direction: column;
+      }
+      .CarContainer img {
+        width: 50%;
+      }
+   
+}

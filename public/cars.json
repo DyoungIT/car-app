@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Tesla Model S",
+      "image": "https://www.carsized.com/resources/tesla/model-s/d/2016/sl_242117140_tesla-model-s-2016-side-view_4x.png",
+      "description": "Electric sedan with autopilot", 
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "name": "BMW X5",
+      "image": "https://bmw.talisman.net.ua/storage/units/categories/big/bmw-x5-2023-main.png",
+      "description": "Luxury SUV with all-wheel drive",
+      "price": 20000
+    },
+    {
+      "id": 3,
+      "name": "Audi A7",
+      "image": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2VTcstORHHz73Xe2dQGNFBxIU7eRAGrKRPvy4e9A4uBBkYUNzcxaW6k05ykn5LpdPP6Y_gxo0fY77AfJbZuHWhGzduBOuI0OTHv5KqTqUq3d_84_J2j5c3Hz58-fv__OwnxnzXvL5cXtbL5fKK7a8_fPnNv37673ef_vFv_ze_-8vlbdpjv7ziJV-__r6b0Gi4rdr88PIJmy5vHxN_5uHVX3l493cevveLy__Gx8xnj5lvH_rdz99cLj_4zeXyyacPv8tnn-8xrBhx-lXUtC4zuax_9EuUQ6P6tmmUKFEqVVR1p8umbVVdFLITTVl2jcb2x_zqf-KCMOJVDTTLoX2pUoTSoyjuUIiiBFl-QRVVUNVfjAEQdy0QsI9yZWgl08qIYhWAZmoGDWizVKxcX-6WEUxmFcymJeC6Go6FpOsXDkZGI89RqMgwJjM9VKziwbgLXwImlC_st6vuGBiELQEeufYt9GilvzHSrVCMLMMKfb_UI0If-p732S-HJAl9QpEnGNTR8PsGi4WVMCzDUDcwrOjSldG7vWQMLhcM5Q42phdzCFCoZR9AaXcde1Ajv0GAHvTsWtCPmAG0s02aGSGnCvRqmxcGuYajaKJd80pK5iz4qJXgDY56r3kv43hIPrrRUA4Me2QOPQZqOfdxUeMqYYyuyBWMtFaPJZkawzhp5PyMHrsoGHNnWjDeirtlkOaYxmdxm8BMS-ocmIhtKhkpDwUYWo1UYA6s7wVYNMaWYHVfc-5WR6wkg6obK4diZuWmer4x6DonsB473MDS0TpWu_J8yPbeF7wlN9NeDeAilaEBj9G3kUGbl-D7LKYKfDjFvQQ_rVvsGFSqK_hlMr1g5OocwMdJnjWDJBbgCauB3cldOXdPu0ee26337Hfm-ugg4FD5CkJvrwYhDOu2FRCUmm-CYcb9oRZNrDQGERjzdjYQHLaG_TxqbtPg--bK7n5o6geCtmxcYsN1CJFbcWVk5FMKpLtMDCoGjpL2q-WY-9RYBRNSrQuYFI3c0NOIHXUw-b3ljKYFHTc0F0XtNcyYm93APM_jKWHFyXDhVoNjYrUpfmAz07hJ2HbETUBENcidsbj2ZOzdDSEOi45XiMo3fCBRO1fVjJC5HFFHyfkR9uVLyTDN2DEsCsHYBRFQH1vagIY4ejYOaQsSSNlS80qNm2uARir8A2fB_UnGdysr18_lxNDXwKGdLfGBU4QeyOON06QZm9AybHt_qEhCAS1z9TICrXvzMEZbuxqIbOarRhSvd0ZKhgtHeRn5ktAR20ew4-z4o0NnuE5Xxi7mHpLP5VhDWk3XS0boudIpjpVqIdE680GmrLd8hXQEmS1jl4SQ7qvUK-MsuAty72USkBdv8MqgTSLklLszw4GhS8iImjd4rIkfOAgbzYqoNCOcfSwOhJPLnRScTpcnw3MXsNHna9_ASSTiCWeK2RZw7rabxK_1nF1c5knP6fmr5av3H3-37KSfDqeSfZZdIZ6sdsamZ1mW4gnDavE5xV0_DTjxLX3-Q9qVWz6-_1h8FIIXzPxnSY7_As-_xXt4eD5R0jq62eBsgn6W4vM37__09X8Bu6w2FcIGAAA?mimetype=image/png",
+      "description": "Sporty luxury coupe",
+      "price": 10000
+    },
+    {
+        "id": 4,
+        "name": "Porshe 911 GT3",
+        "image": "https://cdn.shopify.com/s/files/1/0734/5491/1767/t/4/assets/9911-1686659676988.png?v=1686659678",
+        "description": "The Porsche 911 GT3 is a high-performance variant of the iconic Porsche 911 sports car.",
+        "price": 110000
+      },
+      {
+        "id": 5,
+        "name": "Audi RS6",
+        "image": "https://s3.amazonaws.com/cka-dash/270-1123-CA148/model1.png",
+        "description": "The Audi RS6 is a high-performance version of the Audi A6, renowned for its powerful engine, exceptional handling, and practical design.",
+        "price": 25000
+      },
+      {
+        "id": 6,
+        "name": "Audi TT",
+        "image": "https://www.carsized.com/resources/audi/tt/ca/2018/sl_228117105_audi-tt-2018-side-view_4x.png",
+        "description": "The Audi TT is a compact sports car that combines stylish design, sporty performance, and everyday usability.",
+        "price": 35000
+      },
+      {
+        "id": 7,
+        "name": "Bentley Bentayga",
+        "image": "https://rng-t.com/wp-content/uploads/2023/11/%D0%90%D0%92%D0%A2%D0%9E-%D0%94%D0%98%D0%A1%D0%9A%D0%98-%D0%B1%D0%B5%D0%BD%D1%82%D0%B0%D0%B9%D0%B3%D0%B0.png",
+        "description": "The Bentley Bentayga is a luxury SUV that combines opulence, performance, and cutting-edge technology",
+        "price": 70000
+      },
+      {
+        "id": 8,
+        "name": "Toyota Supra",
+        "image": "https://www.buyatoyota.com/sharpr/bat/assets/img/vehicle-info/Supra/2021/supra-hero.png",
+        "description": "The Toyota Supra is a legendary sports car that has become an icon in the automotive world.",
+        "price": 100000
+      }
+
+  ]
