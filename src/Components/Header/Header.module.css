@@ -4,9 +4,13 @@
     justify-content: space-around;
     font-size: 18px;
     font-family: 'Comfortaa', sans-serif;
+    background-color: rgb(230, 230, 230);
+    position: fixed;
+    top: 0; 
+    width: 100%;
 }
 .container a {
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 .container a:hover {
