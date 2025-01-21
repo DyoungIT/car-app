@@ -1,0 +1,15 @@
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.FirstTextContainer{
+    
+}
+
+
+
