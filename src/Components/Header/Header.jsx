@@ -14,7 +14,7 @@ export function Header() {
         <Link to="/about">О компании</Link>
       </div>
       <div>
-        <Link to="/reviews">Отзывы</Link>
+        <Link to="/contacts">Контакты</Link>
       </div>
     </nav>
   );
