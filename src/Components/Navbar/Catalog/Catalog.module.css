@@ -21,6 +21,11 @@
   justify-content: space-between;
   border-radius: 40px;
 }
+.item:hover {
+  transform: scale(0.97); 
+  transition: transform 0.4s linear;
+  box-shadow: #ffffff 0px 0px 25px;
+}
 .carInfo{
   word-break: break-word;
 }
