@@ -4,12 +4,27 @@
     font-family: "Nunito", sans-serif;
     align-items: center;
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 45px;
 }
-
-.FirstTextContainer{
-    
+.blockText{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 }
-
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p, li{
+    width: auto;
+    padding: 0px 10px;
+    margin: 0px;
+}
+.svgIcon{
+    padding-right: 10px;
+    width: 30px;
+    height: 30px;
+}
 
 
