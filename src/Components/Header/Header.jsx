@@ -11,10 +11,10 @@ export function Header() {
         <Link to="/catalog">Каталог</Link>
       </div>
       <div>
-        <Link to="/about">О компании</Link>
+        <Link to="/about">О кампании</Link>
       </div>
       <div>
-        <Link to="/reviews">Отзывы</Link>
+        <Link to="/contacts">Контакты</Link>
       </div>
     </nav>
   );
